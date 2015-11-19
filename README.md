@@ -1,2 +1,2 @@
 # JavaSamples
-Projetos de exemplo em Java
+Exemplos de recursos do Java
